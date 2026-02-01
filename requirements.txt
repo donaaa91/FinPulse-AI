@@ -1,0 +1,8 @@
+streamlit
+yfinance
+pandas
+plotly
+transformers
+torch
+langchain-groq
+langchain-core
